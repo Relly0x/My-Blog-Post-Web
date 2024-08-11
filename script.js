@@ -1,1 +1,1 @@
-const one = 
+const one = 'n/a'
